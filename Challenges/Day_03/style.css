@@ -36,23 +36,23 @@ ul li:hover span {
 }
 
 ul li:nth-child(1) span {
-  background: #4064AC;
+  background: #19e923;
 }
 
 ul li:nth-child(2) span {
-background: #CC456C;
+background: #f1870e;
 }
 
 ul li:nth-child(3) span {
-  background: #61CD65;
+  background: #0f9db6;
 }
 
 ul li:nth-child(4) span {
-  background: #0270AD;
+  background: #ad020b;
 }
 
 ul li:nth-child(5) span {
-  background: #302F2F;
+  background: #e4dbdb;
 }
 
 ul li:hover span:nth-child(5) {
